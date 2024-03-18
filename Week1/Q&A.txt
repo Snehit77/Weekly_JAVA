@@ -1,0 +1,19 @@
+If you complete the exercises above, answer the following questions.
+a. What is the latest version of the Java SDK that is available?
+Java 17 is the latest version
+
+b. What is the difference between Java SE and Java ME?
+Java SE(Standard edition) is for desktop applications, big
+projects whereas Java ME(Micro Editon) is a subset of the Standard edition
+used for mobile application,emebedded systems etc..
+
+
+c. Which operating system is Java available for?
+Java is available for various OS like Windows,MacOS,Linux and others.
+Java is a portable programming language
+
+d. What is the most popular IDE available for Java apart from Eclipse?
+IntelliJ IDEA is one of the most popular IDE for Java.
+
+e. What is the main() function for in a Java program?
+main() funcion is like a starting point of a java program. It helps in the execution of the program.
